@@ -1,5 +1,7 @@
 # DOCKER TRAINING
 
+![docker_training](https://www.docker.com/sites/default/files/catkeyboard%402x-min.png)
+
 ## PREREQUISITES
 
 In order to follow this Docker training you will need the following tools installed.
