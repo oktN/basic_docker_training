@@ -1,0 +1,21 @@
+{
+"@type": "MessageCard",
+"@context": "http://schema.org/extensions",
+"themeColor": "008000",
+"summary": "LOL",
+"sections": [{
+    "activityTitle": "SAMPLE JSON POST WITH DOCKER",
+    "activitySubtitle": "LOOKS LIKE WE MADE IT!",
+    "activityImage": "https://media.giphy.com/media/xSM46ernAUN3y/giphy.gif",
+    "facts": [{
+        "name": "TOOLS USED",
+        "value": "DOCKER & CURL"
+    }, {
+        "name": "LAB",
+        "value": "POST A JSON FILE TO A MSTEAMS WEBHOOK"
+    }, {
+        "name": "MORAL",
+        "value": "WE ROCK"
+    }]
+    }]
+}
