@@ -64,15 +64,15 @@ docker start -p 8080:80 -d --name web01 centos/httpd
 
 ## SAMPLES AND EXERCICES
 
-1 - [Create hello-world Dockerfile](/exercices/ex-1/README.md)
+1 - [Create hello-world Dockerfile](/exercices/ex-1/)
 
-2 - [Install and run a webserver](/exercices/ex-2/README.md)
+2 - [Install and run a webserver](/exercices/ex-2/)
 
-3 - [Make a POST docker image](/exercices/ex-3/README.md)
+3 - [Make a POST docker image](/exercices/ex-3/)
 
-4 - [Multi stage build with dotnet core](exercices/ex-4/README.md)
+4 - [Multi stage build with dotnet core](exercices/ex-4/)
 
 
 ## AUTHOR
 
-Héctor López [LinkedIn](https://www.linkedin.com/in/h%C3%A9ctor-l%C3%B3pez-rodr%C3%ADguez-3b6408b8/) [Twitter](https://twitter.com/oktn1c3) [Github](https://github.com/oktn)
+Héctor López - [LinkedIn](https://www.linkedin.com/in/h%C3%A9ctor-l%C3%B3pez-rodr%C3%ADguez-3b6408b8/) | [Twitter](https://twitter.com/oktn1c3) | [GitHub](https://github.com/oktn)
