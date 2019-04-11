@@ -1,0 +1,7 @@
+FROM alpine:latest
+
+WORKDIR /opt/ex-1
+
+COPY ./src  .
+
+ENTRYPOINT ["/bin/sh"]
